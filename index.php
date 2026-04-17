@@ -1,2 +1,2 @@
 StudyMoviesProject
-<?php echo "ideto";
+php<?php echo "ideto";
